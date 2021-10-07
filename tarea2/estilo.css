@@ -1,0 +1,32 @@
+.contenedor img{
+  margin-right: 0px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  display:block;
+  width: 700px;
+  height: 450px;
+  float: right;
+}
+h1 {
+  margin-top: 10px;
+  font-family: fantasy;
+  font-size: 30px;
+}
+h2 {
+  margin-top: 10px;
+font-family: "Segoe UI";
+font-size: 21px;
+  color: gray
+}
+h3 {
+  margin-top: 10px;
+font-family: monospace;
+font-size: 20px;
+  color: gray
+}
+h4 {
+  margin-top: 10px;
+font-family: serif;
+font-size: 18px;
+  color: gray
+}
